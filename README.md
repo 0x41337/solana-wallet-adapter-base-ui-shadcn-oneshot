@@ -43,7 +43,7 @@ $ npm install --save \
     @solana/web3.js \
 
 # The shadcn used comps
-$ npx shadcn@latest button dialog dropdown-menu
+$ npx shadcn@latest add button dialog dropdown-menu
 ```
 
 2️⃣ Copy the files:
