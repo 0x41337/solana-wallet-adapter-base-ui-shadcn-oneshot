@@ -1,3 +1,5 @@
+> This project has been archived, please use the new version: https://github.com/0x41337/shad-wallet
+
 # 🦄 Solana Wallet (shadcn-style Component)
 
 Solana wallet connection component inspired by the [shadcn/ui](https://ui.shadcn.com/) philosophy: **Copy, paste and use. Simple, decoupled and extensible.**
